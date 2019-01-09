@@ -13,7 +13,7 @@ A short README.md that explains how to get started with Markdown, a super-simple
 1. Enter the name of the repo (which will become the title of your page). 
 1. Allow GitHub to create a .gitignore based on the type of project (if needed). 
 1. Allow GitHub to draft a README.md. 
-1. Choose a licence if desired. 
+1. Choose a license if desired. 
 
 ## GitHub Pages
 
@@ -23,7 +23,7 @@ Scroll back down to see the URL of your published site. Copy this URL and put it
 
 ## Editing README.md
 
-You can edite README.md online by clicking on the file name and then the pencil icon OR you can install a text editor like VS Code. 
+You can edit README.md online by clicking on the file name and then the pencil icon OR you can install a text editor like VS Code. 
 
 If you use VS Code, the following extensions may be helpful:
 
