@@ -55,7 +55,7 @@ For an unordered list, preface each item with a dash and space as shown above.
 Code should be fenced using three backtics ` on the line above and the line below your code. 
 After the opening backtics, put the syntax type, e.g. JavaScript or DOS (for Windows terminal commands) or Bash (for Git Bash commands). 
 
-```DOS
+```PowerShell
 dir
 ```
 
