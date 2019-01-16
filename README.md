@@ -67,6 +67,12 @@ Images look like links with an ! in front, for example, an external image can be
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
+## Displaying Local Images
+
+You can also upload an image into your repo. 
+
+![vscode image](https://github.com/profcase/working-with-markdown/blob/master/vscode.PNG "Example local image")
+
 ## Paragraphs
 
 Lines directly below one another will wrap into a single paragraph. 
