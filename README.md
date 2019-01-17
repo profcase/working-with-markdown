@@ -64,12 +64,18 @@ dir
 It can be a bit challenging to find the correct URL for each image. 
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
+The URL must be to the image itself, so look for URLs that end with an image file extension, e.g., jpg, png, ico). 
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
 ## Displaying Local Images
 
-You can also upload an image into your repo. 
+You can also upload an image into your repo. To get the correct URL, upload the image to your repo. Then click on the image file in the repo. Get the URL of the image itself, and change blob to raw. As noted by [win93](https://github.com/win93):
+
+> While using /blob/ appears to work in the GitHub preview and repository
+view, the image does not load properly when you look at the published
+version. This change makes the image link to the true image, instead of
+the preview/lightbox (similar to the difficulty with Wikimedia).
 
 ![vscode image](https://github.com/profcase/working-with-markdown/raw/master/vscode.PNG "Example local image")
 
@@ -93,10 +99,5 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 Denise Case
 
 dcase@nwmissouri.edu
-
-## New Section 
-
-- one
-- two
 
 
